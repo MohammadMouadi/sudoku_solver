@@ -1,6 +1,6 @@
 # sudoku_solver
 
-preview:
+
 This is a small GUI application built in Python3 and Pyqt5 to solve sudoku boards. It is also possible to use it as a game.
 The approach used to solve and generate boards is backtracking.
 
