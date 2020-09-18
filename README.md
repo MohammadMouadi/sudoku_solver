@@ -27,7 +27,5 @@ In the application:
      - The solver will ignore your input and solve according to the initial state.
      - The slider at the bottom is to control the speed of the solving visualisation.
      
-   * There is an exe file in the repo, and it is a single executable file for the application.
-    
   
 
